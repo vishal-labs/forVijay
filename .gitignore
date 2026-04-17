@@ -1,0 +1,24 @@
+# Environments
+.venv
+.venv*
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Testing
+.pytest_cache/
+
+# OS Specific
+.DS_Store
+
+# Large files / Build artifacts
+botnet-api.tar
+ModelData/
+
+# Miscellaneous scripts
+test_script.py
